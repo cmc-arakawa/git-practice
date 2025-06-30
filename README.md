@@ -1,3 +1,3 @@
 # git-practice
 更新
-Fast forward
+no-fast-forward
